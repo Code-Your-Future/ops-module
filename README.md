@@ -9,6 +9,6 @@ The idea is to provide basic knowledge on some of the following topics:
 
 2- Basic Linux commands
 
-3- Light intro into virtualization, containers. Maybe some AWS
+3- Light intro into virtualization, containers. (AWS free tier)
 
-4- Continuous integration and devops stuff
+4- DevOps: Create a simple pipeline from scratch using GitHub and CircleCI.
